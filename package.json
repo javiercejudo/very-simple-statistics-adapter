@@ -1,6 +1,6 @@
 {
   "name": "very-simple-statistics-adapter",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "very-simple-statistics adapter for linear-arbitrary-precision",
   "main": "src/very-simple-statistics-adapter.js",
   "scripts": {
